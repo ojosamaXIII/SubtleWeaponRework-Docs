@@ -4,7 +4,7 @@ This page lists Pre-Hardmode weapon reworks.
 
 | Icon | Weapon | Summary |
 |---|---|---|
-| <img src="../../asset/Flare_Gun.png" width="32"> | [Flare Gun](FlareGun.md) | Flares ignite and mark enemies, making them take additional damage. |
+| <img src="../../asset/Flare_Gun.png" width="32"> | [Flare Gun](FlareGun.md) | The Flare Gun is reworked into a lightweight support weapon that marks enemies with burning flares, making them easier to damage. |
 | <img src="../../asset/Ale_Tosser.png" width="32"> | [Ale Tosser](AleTosser.md) | While Tipsy, using this grants Dead Drunk for more damage but less defense. |
 | <img src="../../asset/Blowpipe.png" width="32"> | [Blowpipe](Blowpipe.md) | Attacks poison enemies for a short time. |
 | <img src="../../asset/Harpoon.png" width="32"> | [Harpoon](Harpoon.md) | Striking bleeding enemies briefly increases Harpoon damage. |
