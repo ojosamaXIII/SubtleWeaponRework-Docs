@@ -2,24 +2,25 @@
 
 <img src="../../asset/Blowpipe.png" width="64">
 
-> Status: Draft  
-> This page was generated from the current implementation and needs review.
-
 ## Summary
 
-Attacks poison enemies for a short time.
+The Blowpipe is reworked into a simple early poison weapon that gives seeds and other Blowpipe shots a small status effect role.
 
 ## Original role
 
-Coming soon.
+The Blowpipe is an early ranged weapon that uses seeds as ammunition.
+
+It is available very early, but its identity is fairly plain once the player finds stronger ranged options.
 
 ## Rework
 
-Coming soon.
+Attacks fired from the Blowpipe inflict Poisoned on enemies for 2 seconds.
 
 ## Notes
 
-Coming soon.
+This is intentionally a small rework because the Blowpipe is an early-game weapon.
+
+The goal is to give it a clearer niche as a basic poison ranged weapon without making it too strong for the beginning of the game.
 
 ## Navigation
 
