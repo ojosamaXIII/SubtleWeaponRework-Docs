@@ -2,24 +2,28 @@
 
 <img src="../../asset/Venus_Magnum.png" width="64">
 
-> Status: Draft  
-> This page was generated from the current implementation and needs review.
-
 ## Summary
 
 Repeated shots build focus, briefly increasing this weapon's critical chance.
 
 ## Original role
 
-Coming soon.
+The Venus Magnum is a Hardmode gun with strong base stats and a clean firing style.
+
+It is usable, but its combat identity is fairly straightforward compared with more unusual guns.
 
 ## Rework
 
-Coming soon.
+- Firing the Venus Magnum builds a focus counter.
+- After 40 shots, the player gains Venus Focus for 10 seconds.
+- While Venus Focus is active, the Venus Magnum gains +15% critical chance.
+- The shot counter does not build while Venus Focus is already active.
 
 ## Notes
 
-Coming soon.
+This rework gives the Venus Magnum a sustained-fire payoff.
+
+Rather than changing the gun's handling, it rewards continued use with a temporary precision window.
 
 ## Navigation
 
