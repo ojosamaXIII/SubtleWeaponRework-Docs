@@ -2,24 +2,29 @@
 
 <img src="../../asset/Yellow_Phaseblade.png" width="64">
 
-> Status: Draft  
-> This page was generated from the current implementation and needs review.
-
 ## Summary
 
-Hits build meteor counters. Right-click spends them for a yellow color-specific effect.
+The Yellow Phaseblade is reworked into a low-cost damage Phaseblade that spends meteor counters for a short modest damage boost.
 
 ## Original role
 
-Coming soon.
+The Yellow Phaseblade is one of the gem-colored Phaseblades.
+
+Its original identity is mostly visual, with no strong color-specific combat behavior.
 
 ## Rework
 
-Coming soon.
+- Yellow Phaseblade hits build meteor counters.
+- The Yellow Phaseblade can store up to 11 meteor counters.
+- Right-click spends 1 meteor counter to activate its color-specific effect.
+- While the effect is active, Yellow Phaseblade damage is increased by 10%.
+- The damage boost lasts for 4 seconds.
 
 ## Notes
 
-Coming soon.
+This rework makes the Yellow Phaseblade the easy-to-maintain damage color.
+
+Its bonus is modest, but the special cost is very low, making it reliable for players who want a simple damage rhythm without managing a large counter spend.
 
 ## Navigation
 

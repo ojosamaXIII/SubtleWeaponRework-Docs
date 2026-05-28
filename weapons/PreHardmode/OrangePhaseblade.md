@@ -2,24 +2,29 @@
 
 <img src="../../asset/Orange_Phaseblade.png" width="64">
 
-> Status: Draft  
-> This page was generated from the current implementation and needs review.
-
 ## Summary
 
-Hits build meteor counters. Right-click spends them for an orange color-specific effect.
+The Orange Phaseblade is reworked into a burst damage Phaseblade that spends meteor counters for a short strong damage boost.
 
 ## Original role
 
-Coming soon.
+The Orange Phaseblade is one of the gem-colored Phaseblades.
+
+As with the other Phaseblades, its original difference is mostly visual rather than mechanical.
 
 ## Rework
 
-Coming soon.
+- Orange Phaseblade hits build meteor counters.
+- The Orange Phaseblade can store up to 12 meteor counters.
+- Right-click spends 5 meteor counters to activate its color-specific effect.
+- While the effect is active, Orange Phaseblade damage is increased by 50%.
+- The damage boost lasts for 4 seconds.
 
 ## Notes
 
-Coming soon.
+This rework makes the Orange Phaseblade the burst damage member of the Phaseblade set.
+
+Compared to the Yellow Phaseblade, it costs more counters but gives a much larger temporary damage increase, making it better suited for planned attack windows.
 
 ## Navigation
 

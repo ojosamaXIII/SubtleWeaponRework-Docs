@@ -2,24 +2,30 @@
 
 <img src="../../asset/Red_Phaseblade.png" width="64">
 
-> Status: Draft  
-> This page was generated from the current implementation and needs review.
-
 ## Summary
 
-Hits build meteor counters. Right-click spends them for a red color-specific effect.
+The Red Phaseblade is reworked into a fire-focused Phaseblade that spends meteor counters to make its hits ignite enemies.
 
 ## Original role
 
-Coming soon.
+The Red Phaseblade is one of the gem-colored Phaseblades.
+
+Its original identity is mostly cosmetic, since the different Phaseblade colors share the same basic combat role.
 
 ## Rework
 
-Coming soon.
+- Red Phaseblade hits build meteor counters.
+- The Red Phaseblade can store up to 7 meteor counters.
+- Right-click spends 1 meteor counter to activate its color-specific effect.
+- While the effect is active, Red Phaseblade hits inflict On Fire! on enemies.
+- The weapon effect lasts for 10 seconds.
+- On Fire! applied by this effect lasts for 10 seconds.
 
 ## Notes
 
-Coming soon.
+This rework makes the Red Phaseblade the simplest offensive status color.
+
+Because its special cost is low, it can keep its fire effect active often as long as the player continues landing hits.
 
 ## Navigation
 

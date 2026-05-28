@@ -23,10 +23,10 @@ This page lists Pre-Hardmode weapon reworks.
 | <img src="../../asset/Bone_Sword.png" width="32"> | [Bone Sword](BoneSword.md) | Swings can fire bone projectiles. |
 | <img src="../../asset/Bat_Bat.png" width="32"> | [Bat Bat](BatBat.md) | Hits cost a little life, then heal based on damage dealt. |
 | <img src="../../asset/Katana.png" width="32"> | [Katana](Katana.md) | Sheathed slashes deal greatly increased damage and cannot critically strike. |
-| <img src="../../asset/Blue_Phaseblade.png" width="32"> | [Blue Phaseblade](BluePhaseblade.md) | Hits build meteor counters. Right-click spends them for a blue color-specific effect. |
-| <img src="../../asset/Red_Phaseblade.png" width="32"> | [Red Phaseblade](RedPhaseblade.md) | Hits build meteor counters. Right-click spends them for a red color-specific effect. |
-| <img src="../../asset/Green_Phaseblade.png" width="32"> | [Green Phaseblade](GreenPhaseblade.md) | Hits build meteor counters. Right-click spends them for a green color-specific effect. |
-| <img src="../../asset/Purple_Phaseblade.png" width="32"> | [Purple Phaseblade](PurplePhaseblade.md) | Hits build meteor counters. Right-click spends them for a purple color-specific effect. |
-| <img src="../../asset/White_Phaseblade.png" width="32"> | [White Phaseblade](WhitePhaseblade.md) | Hits build meteor counters. Right-click spends them for a white color-specific effect. |
-| <img src="../../asset/Yellow_Phaseblade.png" width="32"> | [Yellow Phaseblade](YellowPhaseblade.md) | Hits build meteor counters. Right-click spends them for a yellow color-specific effect. |
-| <img src="../../asset/Orange_Phaseblade.png" width="32"> | [Orange Phaseblade](OrangePhaseblade.md) | Hits build meteor counters. Right-click spends them for an orange color-specific effect. |
+| <img src="../../asset/Blue_Phaseblade.png" width="32"> | [Blue Phaseblade](BluePhaseblade.md) | Right-click spends meteor counters to become Wet and gain brief life regeneration. |
+| <img src="../../asset/Red_Phaseblade.png" width="32"> | [Red Phaseblade](RedPhaseblade.md) | Right-click spends meteor counters so Red Phaseblade hits inflict On Fire. |
+| <img src="../../asset/Green_Phaseblade.png" width="32"> | [Green Phaseblade](GreenPhaseblade.md) | Right-click spends meteor counters so Green Phaseblade hits inflict Poisoned. |
+| <img src="../../asset/Purple_Phaseblade.png" width="32"> | [Purple Phaseblade](PurplePhaseblade.md) | Right-click spends meteor counters so Purple Phaseblade hits inflict Shadowflame. |
+| <img src="../../asset/White_Phaseblade.png" width="32"> | [White Phaseblade](WhitePhaseblade.md) | Right-click spends meteor counters to gain a long defensive buff. |
+| <img src="../../asset/Yellow_Phaseblade.png" width="32"> | [Yellow Phaseblade](YellowPhaseblade.md) | Right-click spends meteor counters for a short modest damage boost. |
+| <img src="../../asset/Orange_Phaseblade.png" width="32"> | [Orange Phaseblade](OrangePhaseblade.md) | Right-click spends meteor counters for a short strong damage boost. |
