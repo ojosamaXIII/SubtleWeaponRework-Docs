@@ -6,6 +6,7 @@ This page lists Hardmode weapon reworks.
 |---|---|
 | [Pearlwood Bow](PearlwoodBow.md) | Coming soon. |
 | [Pearlwood Sword](PearlwoodSword.md) | Coming soon. |
+| [K.O. Cannon](KOCannon.md) | Coming soon. |
 | [Staff of Earth](StaffOfEarth.md) | Coming soon. |
 | [Heat Ray](HeatRay.md) | Coming soon. |
 | [Toxikarp](Toxikarp.md) | Coming soon. |
@@ -16,7 +17,6 @@ This page lists Hardmode weapon reworks.
 | [Beam Sword](BeamSword.md) | Coming soon. |
 | [Leaf Blower](LeafBlower.md) | Coming soon. |
 | [Shadowbeam Staff](ShadowbeamStaff.md) | Coming soon. |
-| [Combat Wrench](CombatWrench.md) | Coming soon. |
 | [Marrow](Marrow.md) | Coming soon. |
 | [Poison Staff](PoisonStaff.md) | Coming soon. |
 | [Frost Staff](FrostStaff.md) | Coming soon. |
