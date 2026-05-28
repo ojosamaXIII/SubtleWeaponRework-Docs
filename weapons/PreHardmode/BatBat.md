@@ -14,13 +14,10 @@ Its concept is strong, but the original effect can feel too passive to make the 
 
 ## Rework
 
-When the Bat Bat hits an enemy, the player loses up to 5 life.
-
-This life cost cannot reduce the player below 1 life.
-
-After paying the life cost, the player heals for 15% of the damage dealt.
-
-The healing amount is at least 1 life when healing is possible.
+- When the Bat Bat hits an enemy, the player loses up to 5 life.
+- This life cost cannot reduce the player below 1 life.
+- After paying the life cost, the player heals for 15% of the damage dealt.
+- The healing amount is at least 1 life when healing is possible.
 
 ## Notes
 

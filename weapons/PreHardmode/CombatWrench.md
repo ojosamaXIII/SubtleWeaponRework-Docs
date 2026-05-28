@@ -14,9 +14,8 @@ Its concept is fun, but in combat it can feel like a fairly standard returning p
 
 ## Rework
 
-When the Combat Wrench is returning to the player, its damage is tripled.
-
-The returning damage bonus can only apply once per enemy for each throw.
+- When the Combat Wrench is returning to the player, its damage is tripled.
+- The returning damage bonus can only apply once per enemy for each throw.
 
 ## Notes
 

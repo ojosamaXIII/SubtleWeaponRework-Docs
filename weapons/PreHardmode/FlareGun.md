@@ -14,11 +14,9 @@ Although it can technically deal damage, it is rarely used as a real combat weap
 
 ## Rework
 
-Flares fired from the Flare Gun inflict On Fire! on enemies for 4 seconds.
-
-When a flare hits an enemy, it also applies Marked By Flare for 4 seconds.
-
-Enemies affected by Marked By Flare take +2 additional damage from incoming hits.
+- Flares fired from the Flare Gun inflict On Fire! on enemies for 4 seconds.
+- When a flare hits an enemy, it also applies Marked By Flare for 4 seconds.
+- Enemies affected by Marked By Flare take +2 additional damage from incoming hits.
 
 ## Notes
 

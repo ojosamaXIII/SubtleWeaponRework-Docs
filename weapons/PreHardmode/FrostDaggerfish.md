@@ -14,11 +14,11 @@ It has a distinctive item concept, but its combat identity is limited because it
 
 ## Rework
 
-Frost Daggerfish hits inflict Frostburn on enemies for 4 seconds.
+- Frost Daggerfish hits inflict Frostburn on enemies for 4 seconds.
 
 ## Notes
 
-This is a small, direct rework meant to strengthen the weapon’s ice identity.
+This is a small, direct rework meant to strengthen the weapon's ice identity.
 
 The Frost Daggerfish remains simple, but now has a clearer role as an early frost-status throwing weapon.
 

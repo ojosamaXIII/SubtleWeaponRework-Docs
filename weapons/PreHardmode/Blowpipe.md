@@ -14,7 +14,7 @@ It is available very early, but its identity is fairly plain once the player fin
 
 ## Rework
 
-Attacks fired from the Blowpipe inflict Poisoned on enemies for 2 seconds.
+- Attacks fired from the Blowpipe inflict Poisoned on enemies for 2 seconds.
 
 ## Notes
 

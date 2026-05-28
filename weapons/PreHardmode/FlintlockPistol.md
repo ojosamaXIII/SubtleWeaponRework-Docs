@@ -14,27 +14,20 @@ It is often skipped because players usually need to obtain another gun or bullet
 
 ## Rework
 
-If the player has not fired the Flintlock Pistol for a short time, the next shot becomes a Quickdraw Shot.
-
-When Quickdraw is ready, a sound cue plays so the player can recognize the timing without checking the tooltip.
-
-A fully charged Quickdraw Shot gains increased damage.
-
-Landing fully charged Quickdraw Shots builds the Quickdraw damage stack.
-
-Firing before Quickdraw is ready resets the Quickdraw stack.
-
-Quickdraw Shots have an extra chance to critically strike.
-
-Quickdraw Shots apply Duel Mark to enemies.
-
-Flintlock Pistol shots deal additional damage to enemies affected by Duel Mark.
+- If the player has not fired the Flintlock Pistol for a short time, the next shot becomes a Quickdraw Shot.
+- When Quickdraw is ready, a sound cue plays so the player can recognize the timing without checking the tooltip.
+- A fully charged Quickdraw Shot gains increased damage.
+- Landing fully charged Quickdraw Shots builds the Quickdraw damage stack.
+- Firing before Quickdraw is ready resets the Quickdraw stack.
+- Quickdraw Shots have an extra chance to critically strike.
+- Quickdraw Shots apply Duel Mark to enemies.
+- Flintlock Pistol shots deal additional damage to enemies affected by Duel Mark.
 
 ## Notes
 
 This rework is designed to make the Flintlock Pistol feel like a western-style duel weapon.
 
-The goal is not to make it compete with rapid-fire guns directly. Instead, it creates a shoot, wait, draw, and fire rhythm where timing and sound feedback are part of the weapon’s identity.
+The goal is not to make it compete with rapid-fire guns directly. Instead, it creates a shoot, wait, draw, and fire rhythm where timing and sound feedback are part of the weapon's identity.
 
 ## Navigation
 

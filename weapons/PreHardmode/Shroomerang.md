@@ -14,13 +14,10 @@ It has a memorable name and theme, but in combat it mostly behaves like a standa
 
 ## Rework
 
-When the Shroomerang is returning to the player, it periodically drops small mushroom projectiles.
-
-These mushroom projectiles drift for a short time and can damage enemies.
-
-Each mushroom can hit up to 4 times before disappearing.
-
-The mushrooms also disappear after a short duration.
+- When the Shroomerang is returning to the player, it periodically drops small mushroom projectiles.
+- These mushroom projectiles drift for a short time and can damage enemies.
+- Each mushroom can hit up to 4 times before disappearing.
+- The mushrooms also disappear after a short duration.
 
 ## Notes
 

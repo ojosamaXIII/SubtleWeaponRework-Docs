@@ -14,15 +14,11 @@ It has a unique appearance and attack style, but its combat identity can feel li
 
 ## Rework
 
-Chain Knife damage is increased to 20.
-
-When the Chain Knife hits an enemy, it pulls non-boss enemies slightly toward the player.
-
-Chain Knife hits inflict Bleeding for 4 seconds.
-
-When the Chain Knife hits an enemy affected by Bleeding, its damage is increased by 20%.
-
-When the Chain Knife hits an enemy affected by Bleeding, it also has an additional chance to critically strike.
+- Chain Knife damage is increased to 20.
+- When the Chain Knife hits an enemy, it pulls non-boss enemies slightly toward the player.
+- Chain Knife hits inflict Bleeding for 4 seconds.
+- When the Chain Knife hits an enemy affected by Bleeding, its damage is increased by 20%.
+- When the Chain Knife hits an enemy affected by Bleeding, it also has an additional chance to critically strike.
 
 ## Notes
 

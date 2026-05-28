@@ -14,11 +14,9 @@ It has a distinctive firing style, but its role can feel narrow because its valu
 
 ## Rework
 
-Blood Rain Bow attacks inflict Bleeding on enemies.
-
-If a Blood Rain Bow attack hits an enemy that was already Bleeding, the player gains Blood Rain Frenzy for 6 seconds.
-
-While Blood Rain Frenzy is active, the Blood Rain Bow fires faster.
+- Blood Rain Bow attacks inflict Bleeding on enemies.
+- If a Blood Rain Bow attack hits an enemy that was already Bleeding, the player gains Blood Rain Frenzy for 6 seconds.
+- While Blood Rain Frenzy is active, the Blood Rain Bow fires faster.
 
 ## Notes
 

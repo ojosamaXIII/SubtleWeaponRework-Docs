@@ -14,9 +14,8 @@ It has a memorable behavior, but its combat role can feel limited because it doe
 
 ## Rework
 
-When the Harpoon hits an enemy affected by Bleeding, the player gains Harpoon Blood Boost for 2 seconds.
-
-While Harpoon Blood Boost is active, Harpoon damage is increased by 20%.
+- When the Harpoon hits an enemy affected by Bleeding, the player gains Harpoon Blood Boost for 2 seconds.
+- While Harpoon Blood Boost is active, Harpoon damage is increased by 20%.
 
 ## Notes
 

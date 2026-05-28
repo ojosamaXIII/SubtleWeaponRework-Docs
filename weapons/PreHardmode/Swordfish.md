@@ -14,9 +14,8 @@ Its theme strongly suggests an aquatic weapon, but in normal use it does not hav
 
 ## Rework
 
-While the player is underwater, Swordfish damage is increased by 20%.
-
-While the player is underwater, Swordfish attack speed is increased by 50%.
+- While the player is underwater, Swordfish damage is increased by 20%.
+- While the player is underwater, Swordfish attack speed is increased by 50%.
 
 ## Notes
 
