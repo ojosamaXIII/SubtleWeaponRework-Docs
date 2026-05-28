@@ -2,24 +2,29 @@
 
 <img src="../../asset/Flare_Gun.png" width="64">
 
-> Status: Draft  
-> This page was generated from the current implementation and needs review.
-
 ## Summary
 
-Flares ignite and mark enemies, making them take additional damage.
+The Flare Gun is reworked into a lightweight support weapon that marks enemies with burning flares, making them easier to damage.
 
 ## Original role
 
-Coming soon.
+The Flare Gun is primarily a utility item used to fire flares for lighting.
+
+Although it can technically deal damage, it is rarely used as a real combat weapon.
 
 ## Rework
 
-Coming soon.
+Flares fired from the Flare Gun inflict On Fire! on enemies for 4 seconds.
+
+When a flare hits an enemy, it also applies Marked By Flare for 4 seconds.
+
+Enemies affected by Marked By Flare take +2 additional damage from incoming hits.
 
 ## Notes
 
-Coming soon.
+This rework does not try to turn the Flare Gun into a main damage weapon.
+
+Instead, it gives the weapon a small support role: tag an enemy with a flare, then follow up with other attacks while the target is marked.
 
 ## Navigation
 
