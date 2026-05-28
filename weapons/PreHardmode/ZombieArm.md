@@ -2,24 +2,27 @@
 
 <img src="../../asset/Zombie_Arm.png" width="64">
 
-> Status: Draft  
-> This page was generated from the current implementation and needs review.
-
 ## Summary
 
-Hits fling rotten blood that poisons enemies.
+The Zombie Arm is reworked into a crude undead weapon that throws rotten blood on hit, causing enemies to bleed.
 
 ## Original role
 
-Coming soon.
+The Zombie Arm is an early melee weapon dropped by Zombies.
+
+Its visual identity is memorable, but in combat it mostly behaves like a straightforward melee weapon.
 
 ## Rework
 
-Coming soon.
+- When the Zombie Arm hits an enemy, it launches a short-range rotten blood splash.
+- The blood splash deals partial Zombie Arm damage.
+- When the blood splash hits an enemy, it inflicts Bleeding for 4 seconds.
 
 ## Notes
 
-Coming soon.
+This rework emphasizes the Zombie Arm's grotesque undead theme.
+
+Rather than making it a clean sword-like weapon, it becomes messy and crude: hit an enemy, fling blood, and spread Bleeding through close-range follow-up splashes.
 
 ## Navigation
 

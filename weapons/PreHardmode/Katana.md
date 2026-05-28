@@ -2,24 +2,29 @@
 
 <img src="../../asset/Katana.png" width="64">
 
-> Status: Draft  
-> This page was generated from the current implementation and needs review.
-
 ## Summary
 
-Sheathed slashes deal greatly increased damage and cannot critically strike.
+The Katana is reworked into a sheathing-based melee weapon that rewards waiting for a powerful slash.
 
 ## Original role
 
-Coming soon.
+The Katana is a fast melee weapon sold by the Traveling Merchant.
+
+It has a strong visual identity, but its original combat role is mostly limited to being a quick sword.
 
 ## Rework
 
-Coming soon.
+- After the Katana has been sheathed, its next slash deals greatly increased damage.
+- A sheathed slash deals 6x damage.
+- Sheathed slashes cannot critically strike.
+- After attacking, the Katana must wait 4 seconds before it can become sheathed again.
+- When the Katana becomes sheathed and ready, a sound cue plays.
 
 ## Notes
 
-Coming soon.
+This rework turns the Katana into a timing-based weapon rather than a simple fast sword.
+
+It is meant to feel like an iai slash: wait, listen for the ready cue, then strike with one decisive cut.
 
 ## Navigation
 

@@ -2,24 +2,29 @@
 
 <img src="../../asset/Breathing_Reed.png" width="64">
 
-> Status: Draft  
-> This page was generated from the current implementation and needs review.
-
 ## Summary
 
-Swings release short-lived bubbles from the reed tip.
+The Breathing Reed is reworked into a quirky utility weapon that releases short-lived damaging bubbles from the reed tip.
 
 ## Original role
 
-Coming soon.
+The Breathing Reed is mainly a utility item used to help the player breathe underwater.
+
+It can be swung as a weapon, but it is rarely treated as a serious combat option.
 
 ## Rework
 
-Coming soon.
+- Swinging the Breathing Reed releases small bubble projectiles.
+- Each swing releases 2 to 3 bubbles, up to a short rate limit.
+- The bubbles deal reduced Breathing Reed damage.
+- Each bubble can hit up to 2 times.
+- Bubbles disappear after a short time.
 
 ## Notes
 
-Coming soon.
+This rework leans into the absurdity of fighting with a breathing tube.
+
+The Breathing Reed remains a utility item, but now has a playful combat identity: poke enemies and blow damaging bubbles at close range.
 
 ## Navigation
 
