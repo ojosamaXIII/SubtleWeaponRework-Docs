@@ -5,9 +5,7 @@ This page lists Pre-Hardmode weapon reworks.
 | Icon | Weapon | Summary |
 |---|---|---|
 | <img src="../../asset/Flare_Gun.png" width="32"> | [Flare Gun](FlareGun.md) | The Flare Gun is reworked into a lightweight support weapon that marks enemies with burning flares, making them easier to damage. |
-| <img src="../../asset/Ale_Tosser.png" width="32"> | [Ale Tosser](AleTosser.md) | This rework leans into the weapon’s alcohol theme instead of making it a simple damage upgrade.
-
-The Ale Tosser becomes a short burst-risk weapon: drink, throw, hit harder, but accept the defensive penalty while the buff is active. |
+| <img src="../../asset/Ale_Tosser.png" width="32"> | [Ale Tosser](AleTosser.md) | This rework leans into the weapon’s alcohol theme instead of making it a simple damage upgrade.The Ale Tosser becomes a short burst-risk weapon: drink, throw, hit harder, but accept the defensive penalty while the buff is active. |
 | <img src="../../asset/Blowpipe.png" width="32"> | [Blowpipe](Blowpipe.md) | Attacks poison enemies for a short time. |
 | <img src="../../asset/Harpoon.png" width="32"> | [Harpoon](Harpoon.md) | Striking bleeding enemies briefly increases Harpoon damage. |
 | <img src="../../asset/Blood_Rain_Bow.png" width="32"> | [Blood Rain Bow](BloodRainBow.md) | Inflicts Bleeding; striking bleeding enemies briefly speeds up this bow. |
