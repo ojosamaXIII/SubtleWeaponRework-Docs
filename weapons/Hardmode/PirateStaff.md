@@ -2,24 +2,31 @@
 
 <img src="../../asset/Pirate_Staff.png" width="64">
 
-> Status: Draft  
-> This page was generated from the current implementation and needs review.
-
 ## Summary
 
 Pirate hits steal a coin stack, then spend it for bonus damage.
 
 ## Original role
 
-Coming soon.
+The Pirate Staff summons pirate minions to attack enemies.
+
+Its theme is very strong, but the minions can feel mechanically plain outside of being pirate-flavored summons.
 
 ## Rework
 
-Coming soon.
+- Pirate minion hits can roll a temporary coin stack if one is not already stored.
+- A copper stack grants +5 bonus damage.
+- A silver stack grants +10 bonus damage.
+- A gold stack grants +25 bonus damage.
+- A platinum stack grants +99 bonus damage.
+- The stored coin stack lasts for 10 seconds.
+- The next valid pirate hit spends the stored coin stack for bonus damage.
 
 ## Notes
 
-Coming soon.
+This rework makes the Pirate Staff feel more like a plundering summon weapon.
+
+The random coin stack gives pirate hits a small loot-flavored damage rhythm without changing the summon into a direct-control weapon.
 
 ## Navigation
 

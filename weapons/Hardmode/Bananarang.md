@@ -2,24 +2,28 @@
 
 <img src="../../asset/Bananarang.png" width="64">
 
-> Status: Draft  
-> This page was generated from the current implementation and needs review.
-
 ## Summary
 
 Right-click to eat a banana and gain Well Fed.
 
 ## Original role
 
-Coming soon.
+The Bananarang is a banana-shaped Hardmode boomerang.
+
+Its visual concept is extremely memorable, but its mechanics do not strongly use the banana joke.
 
 ## Rework
 
-Coming soon.
+- Right-clicking while holding the Bananarang lets the player eat a banana.
+- Eating the banana grants Well Fed for 5 minutes.
+- A food sound plays when the effect is successfully applied.
+- The effect does not reapply if the player already has a food buff.
 
 ## Notes
 
-Coming soon.
+This rework is intentionally playful.
+
+The Bananarang does not need a complicated combat system; letting it function as an edible banana gives it a memorable utility identity.
 
 ## Navigation
 
