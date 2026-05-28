@@ -2,24 +2,29 @@
 
 <img src="../../asset/Blood_Rain_Bow.png" width="64">
 
-> Status: Draft  
-> This page was generated from the current implementation and needs review.
-
 ## Summary
 
-Inflicts Bleeding; striking bleeding enemies briefly speeds up this bow.
+The Blood Rain Bow is reworked into a bleeding-focused bow that rewards repeatedly shooting enemies that are already wounded.
 
 ## Original role
 
-Coming soon.
+The Blood Rain Bow fires blood rain projectiles from above the target area.
+
+It has a distinctive firing style, but its role can feel narrow because its value mostly comes from its unusual projectile path rather than a broader combat identity.
 
 ## Rework
 
-Coming soon.
+Blood Rain Bow attacks inflict Bleeding on enemies.
+
+If a Blood Rain Bow attack hits an enemy that was already Bleeding, the player gains Blood Rain Frenzy for 6 seconds.
+
+While Blood Rain Frenzy is active, the Blood Rain Bow fires faster.
 
 ## Notes
 
-Coming soon.
+This rework gives the Blood Rain Bow a rhythm based on keeping enemies wounded.
+
+The first hit applies Bleeding, and follow-up hits reward the player with a temporary firing speed boost.
 
 ## Navigation
 

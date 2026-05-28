@@ -8,7 +8,7 @@ This page lists Pre-Hardmode weapon reworks.
 | <img src="../../asset/Ale_Tosser.png" width="32"> | [Ale Tosser](AleTosser.md) | The Ale Tosser is reworked into a risky brawler-style throwing weapon that becomes stronger when used while Tipsy. |
 | <img src="../../asset/Blowpipe.png" width="32"> | [Blowpipe](Blowpipe.md) | Attacks poison enemies for a short time. |
 | <img src="../../asset/Harpoon.png" width="32"> | [Harpoon](Harpoon.md) | Striking bleeding enemies briefly increases Harpoon damage. |
-| <img src="../../asset/Blood_Rain_Bow.png" width="32"> | [Blood Rain Bow](BloodRainBow.md) | Inflicts Bleeding; striking bleeding enemies briefly speeds up this bow. |
+| <img src="../../asset/Blood_Rain_Bow.png" width="32"> | [Blood Rain Bow](BloodRainBow.md) | The Blood Rain Bow is reworked into a bleeding-focused bow that rewards repeatedly shooting enemies that are already wounded. |
 | <img src="../../asset/Flintlock_Pistol.png" width="32"> | [Flintlock Pistol](FlintlockPistol.md) | Fully charged Quickdraw Shots stack damage; firing early resets the stack. |
 | <img src="../../asset/Frost_Daggerfish.png" width="32"> | [Frost Daggerfish](FrostDaggerfish.md) | Hits inflict Frostburn. |
 | <img src="../../asset/Swordfish.png" width="32"> | [Swordfish](Swordfish.md) | Underwater, gains increased damage and attack speed. |
