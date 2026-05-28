@@ -2,24 +2,29 @@
 
 <img src="../../asset/Ale_Tosser.png" width="64">
 
-> Status: Draft  
-> This page was generated from the current implementation and needs review.
-
 ## Summary
 
-While Tipsy, using this grants Dead Drunk for more damage but less defense.
+The Ale Tosser is reworked into a risky brawler-style throwing weapon that becomes stronger when used while Tipsy.
 
 ## Original role
 
-Coming soon.
+The Ale Tosser is a novelty-style thrown weapon built around throwing ale.
+
+Its theme is memorable, but its combat identity is fairly thin outside of being a strange alcohol-themed weapon.
 
 ## Rework
 
-Coming soon.
+When the player uses the Ale Tosser while affected by Tipsy, they gain Dead Drunk for 4 seconds.
+
+While Dead Drunk is active, all damage dealt by the player is increased by 16%.
+
+While Dead Drunk is active, the player’s defense is reduced by 10.
 
 ## Notes
 
-Coming soon.
+This rework leans into the weapon’s alcohol theme instead of making it a simple damage upgrade.
+
+The Ale Tosser becomes a short burst-risk weapon: drink, throw, hit harder, but accept the defensive penalty while the buff is active.
 
 ## Navigation
 
