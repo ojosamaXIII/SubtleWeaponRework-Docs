@@ -7,7 +7,7 @@ This page lists Pre-Hardmode weapon reworks.
 | <img src="../../asset/Flare_Gun.png" width="32"> | [Flare Gun](FlareGun.md) | The Flare Gun is reworked into a lightweight support weapon that marks enemies with burning flares, making them easier to damage. |
 | <img src="../../asset/Ale_Tosser.png" width="32"> | [Ale Tosser](AleTosser.md) | The Ale Tosser is reworked into a risky brawler-style throwing weapon that becomes stronger when used while Tipsy. |
 | <img src="../../asset/Blowpipe.png" width="32"> | [Blowpipe](Blowpipe.md) | The Blowpipe is reworked into a simple early poison weapon that gives seeds and other Blowpipe shots a small status effect role. |
-| <img src="../../asset/Harpoon.png" width="32"> | [Harpoon](Harpoon.md) | Striking bleeding enemies briefly increases Harpoon damage. |
+| <img src="../../asset/Harpoon.png" width="32"> | [Harpoon](Harpoon.md) | The Harpoon is reworked into a follow-up weapon that becomes stronger when used against bleeding enemies. |
 | <img src="../../asset/Blood_Rain_Bow.png" width="32"> | [Blood Rain Bow](BloodRainBow.md) | The Blood Rain Bow is reworked into a bleeding-focused bow that rewards repeatedly shooting enemies that are already wounded. |
 | <img src="../../asset/Flintlock_Pistol.png" width="32"> | [Flintlock Pistol](FlintlockPistol.md) | The Flintlock Pistol is reworked into a timing-based pistol that rewards deliberate shots instead of rapid fire. |
 | <img src="../../asset/Frost_Daggerfish.png" width="32"> | [Frost Daggerfish](FrostDaggerfish.md) | Hits inflict Frostburn. |
