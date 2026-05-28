@@ -14,7 +14,7 @@ This page lists Pre-Hardmode weapon reworks.
 | <img src="../../asset/Swordfish.png" width="32"> | [Swordfish](Swordfish.md) | The Swordfish is reworked into a water-focused spear that performs better while the player is underwater. |
 | <img src="../../asset/Shroomerang.png" width="32"> | [Shroomerang](Shroomerang.md) | The Shroomerang is reworked into a mushroom-themed boomerang that leaves drifting damaging mushrooms while returning to the player. |
 | <img src="../../asset/Combat_Wrench.png" width="32"> | [Combat Wrench](CombatWrench.md) | The Combat Wrench is reworked into a return-hit weapon that rewards lining up enemies on the way back to the player. |
-| <img src="../../asset/Chain_Knife.png" width="32"> | [Chain Knife](ChainKnife.md) | Pulls enemies, inflicts Bleeding, and is stronger against bleeding targets. |
+| <img src="../../asset/Chain_Knife.png" width="32"> | [Chain Knife](ChainKnife.md) | The Chain Knife is reworked into a bleeding flail that pulls enemies toward the player and becomes more dangerous against wounded targets. |
 | <img src="../../asset/Rally.png" width="32"> | [Rally](Rally.md) | Every third hit on the same enemy deals triple damage. |
 | <img src="../../asset/Zombie_Arm.png" width="32"> | [Zombie Arm](ZombieArm.md) | Hits fling rotten blood that poisons enemies. |
 | <img src="../../asset/Mandible_Blade.png" width="32"> | [Mandible Blade](MandibleBlade.md) | Right-click performs Mandible Crush, a two-jaw bleeding slash. |
