@@ -2,24 +2,31 @@
 
 <img src="../../asset/Bat_Bat.png" width="64">
 
-> Status: Draft  
-> This page was generated from the current implementation and needs review.
-
 ## Summary
 
-Hits cost a little life, then heal based on damage dealt.
+The Bat Bat is reworked into a more aggressive life-trade weapon that hurts the player slightly on hit, then heals based on the damage dealt.
 
 ## Original role
 
-Coming soon.
+The Bat Bat is a melee weapon with a built-in life-steal effect.
+
+Its concept is strong, but the original effect can feel too passive to make the weapon stand out as a distinct risk-and-reward choice.
 
 ## Rework
 
-Coming soon.
+When the Bat Bat hits an enemy, the player loses up to 5 life.
+
+This life cost cannot reduce the player below 1 life.
+
+After paying the life cost, the player heals for 15% of the damage dealt.
+
+The healing amount is at least 1 life when healing is possible.
 
 ## Notes
 
-Coming soon.
+This rework makes the Bat Bat feel more vampiric and unstable.
+
+Instead of being a simple sustain weapon, it becomes a weapon that asks the player to keep attacking to turn self-damage into recovery.
 
 ## Navigation
 

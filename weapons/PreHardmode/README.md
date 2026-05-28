@@ -5,7 +5,7 @@ This page lists Pre-Hardmode weapon reworks.
 | Icon | Weapon | Summary |
 |---|---|---|
 | <img src="../../asset/Flare_Gun.png" width="32"> | [Flare Gun](FlareGun.md) | The Flare Gun is reworked into a lightweight support weapon that marks enemies with burning flares, making them easier to damage. |
-| <img src="../../asset/Ale_Tosser.png" width="32"> | [Ale Tosser](AleTosser.md) | This rework leans into the weapon’s alcohol theme instead of making it a simple damage upgrade The Ale Tosser becomes a short burst-risk weapon: drink, throw, hit harder, but accept the defensive penalty while the buff is active. |
+| <img src="../../asset/Ale_Tosser.png" width="32"> | [Ale Tosser](AleTosser.md) | The Ale Tosser is reworked into a risky brawler-style throwing weapon that becomes stronger when used while Tipsy. |
 | <img src="../../asset/Blowpipe.png" width="32"> | [Blowpipe](Blowpipe.md) | Attacks poison enemies for a short time. |
 | <img src="../../asset/Harpoon.png" width="32"> | [Harpoon](Harpoon.md) | Striking bleeding enemies briefly increases Harpoon damage. |
 | <img src="../../asset/Blood_Rain_Bow.png" width="32"> | [Blood Rain Bow](BloodRainBow.md) | Inflicts Bleeding; striking bleeding enemies briefly speeds up this bow. |
@@ -21,7 +21,7 @@ This page lists Pre-Hardmode weapon reworks.
 | <img src="../../asset/Breathing_Reed.png" width="32"> | [Breathing Reed](BreathingReed.md) | Swings release short-lived bubbles from the reed tip. |
 | <img src="../../asset/Gladius.png" width="32"> | [Gladius](Gladius.md) | Attacks cycle through 70%, 130%, and 150% damage; critical hits grant defense. |
 | <img src="../../asset/Bone_Sword.png" width="32"> | [Bone Sword](BoneSword.md) | Swings can fire bone projectiles. |
-| <img src="../../asset/Bat_Bat.png" width="32"> | [Bat Bat](BatBat.md) | Hits cost a little life, then heal based on damage dealt. |
+| <img src="../../asset/Bat_Bat.png" width="32"> | [Bat Bat](BatBat.md) | The Bat Bat is reworked into a more aggressive life-trade weapon that hurts the player slightly on hit, then heals based on the damage dealt. |
 | <img src="../../asset/Katana.png" width="32"> | [Katana](Katana.md) | Sheathed slashes deal greatly increased damage and cannot critically strike. |
 | <img src="../../asset/Blue_Phaseblade.png" width="32"> | [Blue Phaseblade](BluePhaseblade.md) | Hits build meteor counters. Right-click spends them for a blue color-specific effect. |
 | <img src="../../asset/Red_Phaseblade.png" width="32"> | [Red Phaseblade](RedPhaseblade.md) | Hits build meteor counters. Right-click spends them for a red color-specific effect. |
