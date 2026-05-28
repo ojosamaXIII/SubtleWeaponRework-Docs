@@ -2,24 +2,27 @@
 
 <img src="../../asset/Leaf_Blower.png" width="64">
 
-> Status: Draft  
-> This page was generated from the current implementation and needs review.
-
 ## Summary
 
 Sometimes fires a stronger poisonous seed that inflicts Venom.
 
 ## Original role
 
-Coming soon.
+The Leaf Blower is a Hardmode magic weapon with a rapid stream of leaf projectiles.
+
+Its visual identity is clear, but its shots can feel repetitive over long fights.
 
 ## Rework
 
-Coming soon.
+- Leaf Blower shots sometimes become stronger poisonous seed projectiles.
+- The stronger seed deals increased damage.
+- When the stronger seed hits an enemy, it inflicts Venom for 4 seconds.
 
 ## Notes
 
-Coming soon.
+This rework gives the Leaf Blower occasional stronger shots without changing its rapid-fire nature.
+
+The weapon remains a steady stream weapon, but now has poison-themed spikes of extra impact.
 
 ## Navigation
 
