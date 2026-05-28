@@ -2,31 +2,31 @@
 
 This page lists Pre-Hardmode weapon reworks.
 
-| Weapon | Summary |
-|---|---|
-| [Flare Gun](FlareGun.md) | Coming soon. |
-| [Ale Tosser](AleTosser.md) | Coming soon. |
-| [Blowpipe](Blowpipe.md) | Coming soon. |
-| [Harpoon](Harpoon.md) | Coming soon. |
-| [Blood Rain Bow](BloodRainBow.md) | Coming soon. |
-| [Flintlock Pistol](FlintlockPistol.md) | Coming soon. |
-| [Frost Daggerfish](FrostDaggerfish.md) | Coming soon. |
-| [Swordfish](Swordfish.md) | Coming soon. |
-| [Shroomerang](Shroomerang.md) | Coming soon. |
-| [Combat Wrench](CombatWrench.md) | Coming soon. |
-| [Chain Knife](ChainKnife.md) | Coming soon. |
-| [Rally](Rally.md) | Coming soon. |
-| [Zombie Arm](ZombieArm.md) | Coming soon. |
-| [Mandible Blade](MandibleBlade.md) | Coming soon. |
-| [Breathing Reed](BreathingReed.md) | Coming soon. |
-| [Gladius](Gladius.md) | Coming soon. |
-| [Bone Sword](BoneSword.md) | Coming soon. |
-| [Bat Bat](BatBat.md) | Coming soon. |
-| [Katana](Katana.md) | Coming soon. |
-| [Blue Phaseblade](BluePhaseblade.md) | Coming soon. |
-| [Red Phaseblade](RedPhaseblade.md) | Coming soon. |
-| [Green Phaseblade](GreenPhaseblade.md) | Coming soon. |
-| [Purple Phaseblade](PurplePhaseblade.md) | Coming soon. |
-| [White Phaseblade](WhitePhaseblade.md) | Coming soon. |
-| [Yellow Phaseblade](YellowPhaseblade.md) | Coming soon. |
-| [Orange Phaseblade](OrangePhaseblade.md) | Coming soon. |
+| Icon | Weapon | Summary |
+|---|---|---|
+| <img src="../../asset/Flare_Gun.png" width="32"> | [Flare Gun](FlareGun.md) | Flares ignite and mark enemies, making them take additional damage. |
+| <img src="../../asset/Ale_Tosser.png" width="32"> | [Ale Tosser](AleTosser.md) | While Tipsy, using this grants Dead Drunk for more damage but less defense. |
+| <img src="../../asset/Blowpipe.png" width="32"> | [Blowpipe](Blowpipe.md) | Attacks poison enemies for a short time. |
+| <img src="../../asset/Harpoon.png" width="32"> | [Harpoon](Harpoon.md) | Striking bleeding enemies briefly increases Harpoon damage. |
+| <img src="../../asset/Blood_Rain_Bow.png" width="32"> | [Blood Rain Bow](BloodRainBow.md) | Inflicts Bleeding; striking bleeding enemies briefly speeds up this bow. |
+| <img src="../../asset/Flintlock_Pistol.png" width="32"> | [Flintlock Pistol](FlintlockPistol.md) | Fully charged Quickdraw Shots stack damage; firing early resets the stack. |
+| <img src="../../asset/Frost_Daggerfish.png" width="32"> | [Frost Daggerfish](FrostDaggerfish.md) | Hits inflict Frostburn. |
+| <img src="../../asset/Swordfish.png" width="32"> | [Swordfish](Swordfish.md) | Underwater, gains increased damage and attack speed. |
+| <img src="../../asset/Shroomerang.png" width="32"> | [Shroomerang](Shroomerang.md) | Returning throws shed drifting damaging mushrooms. |
+| <img src="../../asset/Combat_Wrench.png" width="32"> | [Combat Wrench](CombatWrench.md) | Deals triple damage while returning to you. |
+| <img src="../../asset/Chain_Knife.png" width="32"> | [Chain Knife](ChainKnife.md) | Pulls enemies, inflicts Bleeding, and is stronger against bleeding targets. |
+| <img src="../../asset/Rally.png" width="32"> | [Rally](Rally.md) | Every third hit on the same enemy deals triple damage. |
+| <img src="../../asset/Zombie_Arm.png" width="32"> | [Zombie Arm](ZombieArm.md) | Hits fling rotten blood that poisons enemies. |
+| <img src="../../asset/Mandible_Blade.png" width="32"> | [Mandible Blade](MandibleBlade.md) | Right-click performs Mandible Crush, a two-jaw bleeding slash. |
+| <img src="../../asset/Breathing_Reed.png" width="32"> | [Breathing Reed](BreathingReed.md) | Swings release short-lived bubbles from the reed tip. |
+| <img src="../../asset/Gladius.png" width="32"> | [Gladius](Gladius.md) | Attacks cycle through 70%, 130%, and 150% damage; critical hits grant defense. |
+| <img src="../../asset/Bone_Sword.png" width="32"> | [Bone Sword](BoneSword.md) | Swings can fire bone projectiles. |
+| <img src="../../asset/Bat_Bat.png" width="32"> | [Bat Bat](BatBat.md) | Hits cost a little life, then heal based on damage dealt. |
+| <img src="../../asset/Katana.png" width="32"> | [Katana](Katana.md) | Sheathed slashes deal greatly increased damage and cannot critically strike. |
+| <img src="../../asset/Blue_Phaseblade.png" width="32"> | [Blue Phaseblade](BluePhaseblade.md) | Hits build meteor counters. Right-click spends them for a blue color-specific effect. |
+| <img src="../../asset/Red_Phaseblade.png" width="32"> | [Red Phaseblade](RedPhaseblade.md) | Hits build meteor counters. Right-click spends them for a red color-specific effect. |
+| <img src="../../asset/Green_Phaseblade.png" width="32"> | [Green Phaseblade](GreenPhaseblade.md) | Hits build meteor counters. Right-click spends them for a green color-specific effect. |
+| <img src="../../asset/Purple_Phaseblade.png" width="32"> | [Purple Phaseblade](PurplePhaseblade.md) | Hits build meteor counters. Right-click spends them for a purple color-specific effect. |
+| <img src="../../asset/White_Phaseblade.png" width="32"> | [White Phaseblade](WhitePhaseblade.md) | Hits build meteor counters. Right-click spends them for a white color-specific effect. |
+| <img src="../../asset/Yellow_Phaseblade.png" width="32"> | [Yellow Phaseblade](YellowPhaseblade.md) | Hits build meteor counters. Right-click spends them for a yellow color-specific effect. |
+| <img src="../../asset/Orange_Phaseblade.png" width="32"> | [Orange Phaseblade](OrangePhaseblade.md) | Hits build meteor counters. Right-click spends them for an orange color-specific effect. |

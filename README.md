@@ -6,3 +6,5 @@ Public documentation for **Subtle Weapon Rework**, a Terraria mod that gives sma
 
 - [Pre-Hardmode Weapons](weapons/PreHardmode/README.md)
 - [Hardmode Weapons](weapons/Hardmode/README.md)
+
+Each weapon has its own page with its icon, current draft description, and notes.

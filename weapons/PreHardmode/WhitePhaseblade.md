@@ -1,5 +1,14 @@
 ﻿# White Phaseblade
 
+<img src="../../asset/White_Phaseblade.png" width="64">
+
+> Status: Draft  
+> This page was generated from the current implementation and needs review.
+
+## Summary
+
+Hits build meteor counters. Right-click spends them for a white color-specific effect.
+
 ## Original role
 
 Coming soon.
@@ -11,3 +20,8 @@ Coming soon.
 ## Notes
 
 Coming soon.
+
+## Navigation
+
+- [Back to PreHardmode weapons](README.md)
+- [Back to Home](../../README.md)
