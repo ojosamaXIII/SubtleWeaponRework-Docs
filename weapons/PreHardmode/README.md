@@ -11,7 +11,7 @@ This page lists Pre-Hardmode weapon reworks.
 | <img src="../../asset/Blood_Rain_Bow.png" width="32"> | [Blood Rain Bow](BloodRainBow.md) | The Blood Rain Bow is reworked into a bleeding-focused bow that rewards repeatedly shooting enemies that are already wounded. |
 | <img src="../../asset/Flintlock_Pistol.png" width="32"> | [Flintlock Pistol](FlintlockPistol.md) | The Flintlock Pistol is reworked into a timing-based pistol that rewards deliberate shots instead of rapid fire. |
 | <img src="../../asset/Frost_Daggerfish.png" width="32"> | [Frost Daggerfish](FrostDaggerfish.md) | The Frost Daggerfish is reworked into a simple frost-themed throwing weapon that can apply Frostburn on hit. |
-| <img src="../../asset/Swordfish.png" width="32"> | [Swordfish](Swordfish.md) | Underwater, gains increased damage and attack speed. |
+| <img src="../../asset/Swordfish.png" width="32"> | [Swordfish](Swordfish.md) | The Swordfish is reworked into a water-focused spear that performs better while the player is underwater. |
 | <img src="../../asset/Shroomerang.png" width="32"> | [Shroomerang](Shroomerang.md) | Returning throws shed drifting damaging mushrooms. |
 | <img src="../../asset/Combat_Wrench.png" width="32"> | [Combat Wrench](CombatWrench.md) | Deals triple damage while returning to you. |
 | <img src="../../asset/Chain_Knife.png" width="32"> | [Chain Knife](ChainKnife.md) | Pulls enemies, inflicts Bleeding, and is stronger against bleeding targets. |
