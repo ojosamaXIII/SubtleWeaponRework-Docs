@@ -2,24 +2,27 @@
 
 <img src="../../asset/Combat_Wrench.png" width="64">
 
-> Status: Draft  
-> This page was generated from the current implementation and needs review.
-
 ## Summary
 
-Deals triple damage while returning to you.
+The Combat Wrench is reworked into a return-hit weapon that rewards lining up enemies on the way back to the player.
 
 ## Original role
 
-Coming soon.
+The Combat Wrench is a boomerang-like tool weapon sold by the Mechanic.
+
+Its concept is fun, but in combat it can feel like a fairly standard returning projectile.
 
 ## Rework
 
-Coming soon.
+When the Combat Wrench is returning to the player, its damage is tripled.
+
+The returning damage bonus can only apply once per enemy for each throw.
 
 ## Notes
 
-Coming soon.
+This rework keeps the Combat Wrench simple while making its return path much more important.
+
+The weapon becomes strongest when the player positions themselves so the wrench hits enemies on the way back, rather than only on the initial throw.
 
 ## Navigation
 
