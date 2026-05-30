@@ -7,7 +7,7 @@ This page lists Hardmode weapon reworks.
 | <img src="../../asset/Pearlwood_Bow.png" width="32"> | [Pearlwood Bow](PearlwoodBow.md) | Stronger arrows call weaker follow-up arrows from off-screen. |
 | <img src="../../asset/Pearlwood_Sword.png" width="32"> | [Pearlwood Sword](PearlwoodSword.md) | Melee hits launch a Magic Missile. |
 | <img src="../../asset/KO_Cannon.png" width="32"> | [K.O. Cannon](KOCannon.md) | Greatly increased knockback; confused enemies take double damage from this weapon. |
-| <img src="../../asset/Staff_of_Earth.png" width="32"> | [Staff of Earth](StaffOfEarth.md) | Costs more mana, but boulders bounce and can hit many more times. |
+| <img src="../../asset/Staff_of_Earth.png" width="32"> | [Staff of Earth](StaffOfEarth.md) | Fires a much larger boulder at the cost of increased mana usage. |
 | <img src="../../asset/Heat_Ray.png" width="32"> | [Heat Ray](HeatRay.md) | Sustained hits build Heat; overheated targets briefly take double Heat Ray damage. |
 | <img src="../../asset/Toxikarp.png" width="32"> | [Toxikarp](Toxikarp.md) | Toxic bubbles softly home toward enemies. |
 | <img src="../../asset/Bladetongue.png" width="32"> | [Bladetongue](Bladetongue.md) | Direct blade hits also inflict Ichor. |
