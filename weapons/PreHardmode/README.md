@@ -30,3 +30,4 @@ This page lists Pre-Hardmode weapon reworks.
 | <img src="../../asset/White_Phaseblade.png" width="32"> | [White Phaseblade](WhitePhaseblade.md) | Right-click spends meteor counters to gain a long defensive buff. |
 | <img src="../../asset/Yellow_Phaseblade.png" width="32"> | [Yellow Phaseblade](YellowPhaseblade.md) | Right-click spends meteor counters for a short modest damage boost. |
 | <img src="../../asset/Orange_Phaseblade.png" width="32"> | [Orange Phaseblade](OrangePhaseblade.md) | Right-click spends meteor counters for a short strong damage boost. |
+| <img src="../../asset/Revolver.png" width="32"> | [Revolver](Revolver.md) | The Revolver is reworked into a risk-reward gun built around Gunman Mode, timed reload cues, and a powerful Death Gun shot. |
